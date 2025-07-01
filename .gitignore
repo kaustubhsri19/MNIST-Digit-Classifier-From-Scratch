@@ -1,0 +1,21 @@
+# .gitignore for MNIST Digit Classifier (NumPy)
+__pycache__/
+.ipynb_checkpoints/
+.env
+*.pyc
+.DS_Store
+*.pkl
+*.h5
+*.csv
+*.npz
+*.npy
+.envrc
+*.log
+*.swp
+*.bak
+*.tmp
+# VSCode
+.vscode/
+# Jupyter Notebook
+*.nbconvert.ipynb
+*.nbformat*
