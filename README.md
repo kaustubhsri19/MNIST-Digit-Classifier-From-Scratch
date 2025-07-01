@@ -161,12 +161,3 @@ print(f"Final Accuracy: {evaluate(X_val, y_val):.4f}")
 | Cross-Entropy Loss   | For multi-class classification   |
 | Backpropagation      | Gradient formulas coded manually |
 | Weight updates (SGD) | Used gradients to update weights |
-
----
-
-Would you like:
-
-* A sketch diagram showing the full network?
-* Save this project in a GitHub-style markdown?
-* Convert it to notebook + Colab-ready?
-  Let me know and we’ll move to **CNNs** after this.
